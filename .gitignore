@@ -1,0 +1,40 @@
+# cache
+*~
+*.bk
+*.bak
+*.old
+*.new
+
+# IDE
+.vs
+.vscode
+.DS_Store
+
+tags
+cscope*
+.ycm*
+
+# output
+*.o
+*.obj
+*.out
+
+*.pid
+*.log
+*.db
+
+tmp
+include
+lib
+bin
+dist
+build
+
+# test
+test
+
+# msvc
+*.VC.*
+*.vcxproj.*
+Debug
+Release
